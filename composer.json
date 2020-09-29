@@ -1,5 +1,6 @@
 {
   "name": "phpbeans/phpbeans",
+  "description": "A PHP framework",
   "authors": [
     {
       "name": "Biswajit Biswas",
@@ -11,5 +12,7 @@
       "App\\": "app/"
     }
   },
-  "require": {}
+  "require": {
+    "php": "^7.2"
+  }
 }
