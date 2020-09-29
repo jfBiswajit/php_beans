@@ -1,6 +1,11 @@
 {
   "name": "jfbiswajit/phpbeans",
   "description": "A PHP framework",
+  "keywords": [
+    "framework",
+    "laravel"
+  ],
+  "license": "MIT",
   "authors": [
     {
       "name": "Biswajit Biswas",
