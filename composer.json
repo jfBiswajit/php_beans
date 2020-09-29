@@ -1,0 +1,10 @@
+{
+  "name": "phpbeans/phpbeans",
+  "authors": [
+    {
+      "name": "Biswajit Biswas",
+      "email": "jfbiswajit@gmail.com"
+    }
+  ],
+  "require": {}
+}
