@@ -1,8 +1,9 @@
 {
-  "name": "jfbiswajit/phpbeans",
-  "description": "A PHP framework",
+  "name": "jfbiswajit/http",
+  "description": "A PHP library",
   "keywords": [
-    "framework",
+    "library",
+    "http",
     "phpbeans",
     "jfbiswajit"
   ],
